@@ -1,4 +1,4 @@
-# PhonePe Pulse Data Analysis Dashboard
+# PhonePe Data Analysis Dashboard
 
 ## Overview
 This repository contains a comprehensive Power BI dashboard analyzing the **PhonePe Pulse** dataset. The dashboard provides deep insights into India's digital payment ecosystem from 2018 onwards, highlighting transaction trends, user behaviors, and regional payment adoption across states and districts.
